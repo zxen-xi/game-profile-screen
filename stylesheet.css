@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+body {
+    background-color: #242629;
+    font-family: 'Segoe UI', sans-serif;
+
+    padding-left: 10%;
+    padding-right: 10%;
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.title-name {
+    text-align: center;
+    font-size: 28px;
+
+    text-shadow: 1px 1px 2px #f0ffff;
+
+    font-family: 'Staatliches', sans-serif;
+    color: #ffffff;
+}
+
+.main-info-box {
+    font-family: 'Balsamiq Sans', sans-serif;
+
+    align-self: center;  
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    background: linear-gradient(#247bddf8, #579deef8, #287bdaf8);
+    border-style: solid;
+    border-radius: 6px;
+    border-color: #b9ddfd;
+    border-width: 4px;
+
+    font-size: 20px;
+    color: #f0ffffe0;
+}
